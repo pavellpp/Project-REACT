@@ -1,0 +1,10 @@
+body {
+    background-color: #10454F;
+    color: red
+}
+img {
+    margin-right: 20px;
+}
+img:hover {
+    transform: scale(1.25);
+}

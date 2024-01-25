@@ -1,0 +1,13 @@
+.active {
+    background-color: rgb(32, 33, 34);
+    padding: 10px;
+    text-decoration: none;
+}
+
+nav a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 5px 10px;
+    font-size: 20px;
+    color:white;
+}

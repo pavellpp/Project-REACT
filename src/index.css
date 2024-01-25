@@ -1,0 +1,16 @@
+.header {
+    text-align: center;
+    margin-top: 40px;
+}
+.header-color {
+    color: red;
+}
+.wear-dog {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    box-shadow: 0px 0px 20px black;
+    color: #e5e5e5;
+    margin: 10px 5px;
+    transition: all 0.5s linear;
+}

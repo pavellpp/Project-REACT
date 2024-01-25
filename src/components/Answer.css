@@ -1,0 +1,35 @@
+.flex-fill {
+    font-size: medium;
+    margin: 30px;
+    padding: 5px, 20px;
+    background-color: #10454F;
+    color: white;
+    cursor: pointer;
+}
+.flex-fill:focus {
+    background-color: black;
+}
+button {
+    padding: 5px 10px;
+}
+button :focus {
+    background-color: black;
+}
+.content {
+    display: none;
+}
+.show-content {
+    text-align: start;
+    display: block;
+    margin-bottom: 50px;
+    color:white;
+}
+.content {
+    display: none;
+}
+.answer {
+    margin: 10px;
+    background: rgb(41, 2, 2);
+    padding: 20px;
+}
+
